@@ -1,6 +1,6 @@
 # Pseudocódigo — Explotar Globos (Burst Balloons)
 ## Curso: Análisis de Algoritmos y Estrategias de Programación
-## Grupo 08
+## Grupo 03
 
 ## Algoritmo 1: Fuerza Bruta Recursiva — O(n!)
 
